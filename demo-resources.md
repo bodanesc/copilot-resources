@@ -1,4 +1,4 @@
-# Partner Resources on Copilot
+# Partner Resources on M365 Copilot
 
 1. CDX Secure Productivity content
     1. Microsoft 365 E3 Copilot demos:
