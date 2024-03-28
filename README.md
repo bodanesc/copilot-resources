@@ -6,8 +6,8 @@ Welcome to the Copilot Inforrmation Aggregator Project, driven by the Central Eu
 
 ## Navigation
 
-1. [M365 Copilot Partner Resources](./m365copilot-partner-resources.md)
-2. [Security Copilot resources](./securitycopilot-partner-resources.md)
+1. [Copilot for Microsoft 365 Partner Resources](./m365copilot-partner-resources.md)
+2. [Copilot for Security Partner Resources](./securitycopilot-partner-resources.md)
 3. [Demo Resources](./demo-resources.md)
 4. [Upcoming events](./events.md)
 
