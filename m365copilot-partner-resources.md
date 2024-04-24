@@ -1,5 +1,6 @@
 # Partner Readiness on Copilot
 
+- *NEW:* [The Projected Total Economic Impact of Microsoft Copilot for Microsoft 365 - Forrester study](./Copilot_for_M365_Forrester_New_Tech_TEI.PDF)
 - *NEW:* [Copilot for Microsoft 365 - Starter Series Webinars for Healthcare](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/copilot-for-microsoft-365-starter-series-webinars/ba-p/4069989)
 - [Partner Enablement & Playbooks](https://partner.microsoft.com/en-us/asset/collection/partner-enablement-guides#/)
 - [Microsoft 365 CSP Masters Trainings](https://aka.ms/ToPartnerCSPCopilotTraining)
