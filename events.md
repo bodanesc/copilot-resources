@@ -38,3 +38,14 @@ May 02, 2024
 - [April 22nd - Copilot Use Cases for PMO](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/HealthcareAndLifeSciencesBlog/2027/2/Copilot%20Use%20Cases%20for%20PMO%20-%20Copilot%20for%20M365%20-%20Starter%20Series%20.ics)
 - [April 29th - Copilot Use Cases for IT](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/HealthcareAndLifeSciencesBlog/2027/3/Copilot%20Use%20Cases%20for%20IT%20-%20Copilot%20for%20M365%20-%20Starter%20Series%20.ics)
 
+## Security Depth Bootcamp
+
+- [Microsoft Copilot for Security Partner Bootcamp | April 16-17 (PST) & April 17-18 (IST & GMT)](https://aka.ms/AAly1yo)  
+    _Day 1: Sales Track_  
+    _•	Learn the pricing and business model for Copilot for Security using Security Compute units(SCU)_  
+    _•	Understand the value proposition and perfect your pitch for Microsoft Copilot for Security_  
+    
+    _Day 2: Technical Track_  
+    _•	Understand data controls, data sharing, and architecture for Microsoft Copilot for Security_  
+    _•	Learn all about prompts and plugins and how to troubleshoot common issues and errors._  
+    _•	Get visibility to demo environments available for you._  
