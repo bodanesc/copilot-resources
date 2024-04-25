@@ -39,7 +39,7 @@ The Offer Development Guide consists of three key elements to support your Build
 This User Enablement Guide allow you to enable our customers for success in driving user satisfaction with Copilot for Microsoft 365.
 - [Copilot for Microsoft 365 user enablement guide](https://aka.ms/Copilot/UserEnablementGuide) 
 
-## Technical Step-by-step Implemetnation Guide
+## Technical Step-by-step Implementation Guide
 This guide will help you to understand how rapidly deploy Copilot for Microsoft 365 and show specific steps your customers should take to optimize their data security environment based on their current licensing profile and security posture.
 - [Copilot for Microsoft 365 Technical Readiness Guide](https://aka.ms/Copilot/TechnicalReadinessGuide) 
 
