@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 permalink: m365/demo/create_users
 ---
 

@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+nav_exclude: true
 permalink: m365/partner_readiness
 ---
 
