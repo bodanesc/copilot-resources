@@ -1,0 +1,17 @@
+<style>
+    .note.info {
+      background-color: #cce5ff;
+      border-left: 6px solid #007bff;
+      padding: 10px;
+      margin: 20px 0;
+    }
+
+  .note.info:before {
+      content: "ℹ️";
+      font-size: larger;
+  }
+  </style>
+
+  <div class="note info">
+    <strong>Info:</strong> {{ include.content }}
+  </div>

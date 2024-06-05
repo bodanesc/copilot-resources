@@ -1,0 +1,17 @@
+<style>
+    .note.caution {
+      background-color: #ffffcc;
+      border-left: 6px solid #ffeb3b;
+      padding: 10px;
+      margin: 20px 0;
+    }
+  
+  .note.caution:before {
+      content: "⚠️";
+      font-size: larger;
+  }
+  </style>
+  
+  <div class="note caution">
+    <strong>Caution:</strong> {{ include.content }}
+  </div>
