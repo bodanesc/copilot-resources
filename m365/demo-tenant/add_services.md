@@ -1,9 +1,10 @@
 ---
 layout: page
+nav_exclude: true
+title: How to buy a new service and licenses for Microsoft 365 Copilot
 permalink: m365/demo/add_services
 ---
 
-# How to buy a new service and licenses for Microsoft 365 Copilot
 
 {% include note_info.html content="This chapter takes about 10 minutes to read and 10 minutes to implement" %}
 

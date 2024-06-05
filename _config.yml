@@ -1,6 +1,6 @@
 title: Copilot Partner Resources
 # description: One stop shop for your Copilot Partner Resources!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/copilot-resources" # the subpath of your site, e.g. /blog
 url: "https://aka.ms/copilot-partner-resources" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -11,7 +11,7 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

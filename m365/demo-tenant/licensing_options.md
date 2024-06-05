@@ -1,9 +1,9 @@
 ---
 layout: page
+nav_exclude: true
+title: How to buy licenses for the demo environment
 permalink: m365/demo/licensing_options
 ---
-
-## How to buy licenses for the demo environment
 
 In order to be able to run a demo in an independent environment, you might consider buying Microsoft 365 Business Premium licenses. Microsoft 365 Business Premium is a comprehensive cloud-based solution that includes the best-in-class productivity apps of Microsoft 365, as well as advanced security and device management features. There are different ways to buy Microsoft 365 licenses, depending on your needs and preferences. In this chapter, we will guide you through the steps to acquire your licenses.  
 

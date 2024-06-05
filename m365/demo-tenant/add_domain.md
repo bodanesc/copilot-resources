@@ -1,9 +1,9 @@
 ---
 layout: page
+nav_exclude: true
+title: How to add a custom domain
 permalink: m365/demo/add_domain
 ---
-
-## How to add a custom domain
 
 {% include note_info.html content="This chapter takes about 20 minutes to read and 30 minutes to implement" %}
 

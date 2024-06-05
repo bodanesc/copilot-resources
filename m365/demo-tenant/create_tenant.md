@@ -1,8 +1,9 @@
 ---
 layout: page
+nav_exclude: true
+title: Create a Microsoft 365 Business Premium tenant in Advisory
 permalink: m365/demo/create_tenant
 ---
-# Create a Microsoft 365 Business Premium tenant in Advisory
 
 {% include note_info.html content="This chapter takes about 10 minutes to read and 15 minutes to implement" %}
 

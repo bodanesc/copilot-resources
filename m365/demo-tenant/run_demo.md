@@ -1,9 +1,9 @@
 ---
 layout: page
+nav_exclude: true
+title: How to run a great demo
 permalink: m365/demo/run_demo
 ---
-
-## How to run a great demo
 
 A crucial component of demoing the value of `Copilot for Microsoft 365` is the incorporation of relevant data and information to support your narrative. For instance, public datasets or [curated collections](#assets-to-run-the-demo) of data provide a wealth of information that can be utilized to showcase the capabilities. Additionally, for those seeking specific examples in mathematics and Excel, [Statista](https://www.statista.com/) offers a diverse range of datasets that can be downloaded in XLS format, allowing for seamless integration into your demo. 
 
@@ -22,11 +22,11 @@ See and download the relevant documents to support your journey​!
 
 # Personas and examples
 
-- [All personas & content](aka.ms/CopilotImmersionCSPLed)
-- [Full list of demos](aka.ms/CopilotImmersion/DemosList)
-- [Sales persona](aka.ms/CopilotImmersion/Sales)
-- [Marketing persona](aka.ms/CopilotImmersion/Marketing)
-- [HR persona](aka.ms/CopilotImmersion/HR)
+- [All personas & content](https://aka.ms/CopilotImmersionCSPLed)
+- [Full list of demos](https://aka.ms/CopilotImmersion/DemosList)
+- [Sales persona](https://aka.ms/CopilotImmersion/Sales)
+- [Marketing persona](https://aka.ms/CopilotImmersion/Marketing)
+- [HR persona](https://aka.ms/CopilotImmersion/HR)
 
 # Extra Partner Resources on Copilot for Microsoft 365
 

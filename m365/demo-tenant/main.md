@@ -1,9 +1,9 @@
 ---
 layout: page
+nav_exclude: true
+title: Creating a demo environment
 permalink: m365/demo/main
 ---
-
-## Context
 
 Embarking on the journey of creating a demo tenant for Microsoft 365 and Copilot is an exciting venture that allows you to experience the full suite of features and capabilities offered by these powerful tools. This guide serves as your comprehensive roadmap, detailing every step of the process, from licensing options to running a Copilot demo. It's structured to provide clarity and ease, ensuring you can set up your environment with confidence. 
 
