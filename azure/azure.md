@@ -13,9 +13,9 @@ title: Azure
 
 # Jupyter Notebooks with examples for various Azure OpenAI Service use cases
 
-- [Text to Speech Avatar](/assets/azure/aoai-notebooks/TTSAvatar.ipynb)
-- [Video Naration](/assets/azure/aoai-notebooks/Video_narration_hb.ipynb)
-- [GPT-4 Turbo with Vision](/assets/azure/aoai-notebooks/GPT4V/GPT4V.ipynb)
-- [Car Damage Copilot Example](/assets/azure/aoai-notebooks/Car_Damage_Copilot/Car_damage_Copilot_with_GPT-4_Turbo_Vision.ipynb)
+- [Text to Speech Avatar](copilot-resources/assets/azure/aoai-notebooks/TTSAvatar.ipynb)
+- [Video Naration](copilot-resources/assets/azure/aoai-notebooks/Video_narration_hb.ipynb)
+- [GPT-4 Turbo with Vision](copilot-resources/assets/azure/aoai-notebooks/GPT4V/GPT4V.ipynb)
+- [Car Damage Copilot Example](copilot-resources/assets/azure/aoai-notebooks/Car_Damage_Copilot/Car_damage_Copilot_with_GPT-4_Turbo_Vision.ipynb)
 
 {% include note_important.html content="The above URLs will download the Jupyter Notebooks to your computer" %}
