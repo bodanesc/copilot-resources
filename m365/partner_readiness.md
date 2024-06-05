@@ -4,11 +4,11 @@
 
 layout: page
 nav_exclude: true
+title: Partner Readiness on Copilot
 permalink: m365/partner_readiness
 ---
 
-# Partner Readiness on Copilot
-
+Here is a list of resources to get Partners started on Copilot:
 
 - [Partner Enablement & Playbooks](https://partner.microsoft.com/en-us/asset/collection/partner-enablement-guides#/)
 - [Microsoft 365 CSP Masters Trainings](https://aka.ms/ToPartnerCSPCopilotTraining)

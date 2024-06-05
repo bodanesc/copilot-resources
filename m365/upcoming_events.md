@@ -1,10 +1,9 @@
 ---
 layout: page
 nav_exclude: true
+title: Upcoming events
 permalink: /m365/events
 ---
-
-## Upcoming events
 
 - 18th-20th June 2024 @ [Copilot for Microsoft 365 Pre-Sales, Deployment, and Adoption Bootcamp](https://vshow.on24.com/vshow/FY24_MWCWeek/registration/23378?partnerref=DP_MW_ORG_NL_MINDG)
 - 19th June 2024 @ [Introduction to Copilot Partner Led Immersion Experience](https://levelupcspmwba.eventbuilder.com/Copilot)

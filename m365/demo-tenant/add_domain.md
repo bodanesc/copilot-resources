@@ -5,7 +5,6 @@ title: How to add a custom domain
 permalink: m365/demo/add_domain
 ---
 
-
 {% include note_info.html content="This chapter takes about 20 minutes to read and 30 minutes to implement" %}
 
 If you want to use your own domain name for your Microsoft 365 email addresses and website, you can add a custom domain to your tenant. A domain is a unique name that appears after the @ sign in email addresses and after www. in web addresses. For example, if your current email address is `user@contoso.onmicrosoft.com`, you can change it to `user@contoso.com` by adding the `contoso.com` domain to your tenant.

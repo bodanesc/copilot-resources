@@ -4,10 +4,9 @@
 
 layout: page
 nav_exclude: true
+title: Partner Resources on M365 Copilot
 permalink: m365/resources
 ---
-
-# Partner Resources on M365 Copilot
 
 1. CDX Secure Productivity content
     1. Microsoft 365 E3 Copilot demos:

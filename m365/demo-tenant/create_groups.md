@@ -1,10 +1,9 @@
 ---
 layout: page
 nav_exclude: true
+title: Microsoft 365 Groups and Distribution Lists
 permalink: m365/demo/create_groups
 ---
-
-## Microsoft 365 Groups and Distribution Lists
 
 {% include note_info.html content="This chapter takes about 10 minutes to read and 10 minutes to implement" %}
 

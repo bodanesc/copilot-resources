@@ -1,10 +1,9 @@
 ---
 layout: page
 nav_exclude: true
+title: How to create users in the tenant
 permalink: m365/demo/create_users
 ---
-
-# How to create users in the tenant
 
 {% include note_info.html content="This chapter takes about 5 minutes to read and 10 minutes to implement" %}
 

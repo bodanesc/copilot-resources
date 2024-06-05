@@ -4,10 +4,9 @@
 
 layout: page
 nav_exclude: true
+title: Copilot for Microsoft 365 Offers and Services Development
 permalink: m365/develop_services
 ---
-
-## Copilot for Microsoft 365 Offers and Services Development
 
 # General Microsoft 365 Partner Offer Development Guide
 The Offer Development Guide consists of three key elements to support your Build-With journey and prepare to GTM:
