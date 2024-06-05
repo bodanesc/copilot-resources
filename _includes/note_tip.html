@@ -1,0 +1,17 @@
+<style>
+    .note.tip {
+        background-color: #d4edda;
+        border-left: 6px solid #28a745;
+        padding: 10px;
+        margin: 20px 0;
+    }
+  
+    .note.tip:before {
+        content: "💡";
+        font-size: larger;
+    }
+</style>
+
+<div class="note tip">
+    <strong>Tip:</strong> {{ include.content }}
+</div>
