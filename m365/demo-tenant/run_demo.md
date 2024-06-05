@@ -22,11 +22,11 @@ See and download the relevant documents to support your journey​!
 
 # Personas and examples
 
-- [All personas & content](aka.ms/CopilotImmersionCSPLed)
-- [Full list of demos](aka.ms/CopilotImmersion/DemosList)
-- [Sales persona](aka.ms/CopilotImmersion/Sales)
-- [Marketing persona](aka.ms/CopilotImmersion/Marketing)
-- [HR persona](aka.ms/CopilotImmersion/HR)
+- [All personas & content](https://aka.ms/CopilotImmersionCSPLed)
+- [Full list of demos](https://aka.ms/CopilotImmersion/DemosList)
+- [Sales persona](https://aka.ms/CopilotImmersion/Sales)
+- [Marketing persona](https://aka.ms/CopilotImmersion/Marketing)
+- [HR persona](https://aka.ms/CopilotImmersion/HR)
 
 # Extra Partner Resources on Copilot for Microsoft 365
 
