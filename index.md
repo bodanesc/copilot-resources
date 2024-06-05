@@ -4,9 +4,8 @@
 
 layout: page
 nav_exclude: true
+title: Introduction
 ---
-
-## Introduction 
 
 Welcome to the Microsoft Copilot Partner Readiness GitHub repository, your comprehensive hub for all things related to Microsoft's innovative AI companions. Here, you'll find a wealth of resources including documentation, best practices, guides, and readiness materials to help you navigate and utilize the various Copilots effectively. Whether you're a developer, a strategist or an enthusiast, this repository is designed to aggregate knowledge and foster a community around the transformative potential of AI in enhancing productivity and creativity across multiple platforms.
 
