@@ -11,7 +11,7 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
