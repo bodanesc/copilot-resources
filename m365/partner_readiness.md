@@ -13,7 +13,7 @@ Here is a list of resources to get Partners started on Copilot:
 - [Partner Enablement & Playbooks](https://partner.microsoft.com/en-us/asset/collection/partner-enablement-guides#/)
 - [Microsoft 365 CSP Masters Trainings](https://aka.ms/ToPartnerCSPCopilotTraining)
 - [Copilot for Microsoft 365 for Administrators](https://learn.microsoft.com/en-us/training/courses/ms-4006)
-- [The Projected Total Economic Impact of Microsoft Copilot for Microsoft 365 - Forrester study](/assets/m365/Copilot_for_M365_Forrester_New_Tech_TEI.PDF)
+- [The Projected Total Economic Impact of Microsoft Copilot for Microsoft 365 - Forrester study](/copilot-resources/assets/m365/Copilot_for_M365_Forrester_New_Tech_TEI.PDF)
 - [Develop your Skills and Practice on Copilot](https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot)
 - [Optimize productivity with Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/courses/ms-4004)
 - [Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/courses/ms-4005)
