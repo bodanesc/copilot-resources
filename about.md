@@ -18,17 +18,15 @@ The project operates on a robust framework that utilizes **GitHub**, **GitHub Ac
 
 # Contribution
 
-Contributing to the Microsoft Copilots GitHub repository is a straightforward process that allows for community collaboration and enhancement of the resources available.
+To contribute to the Microsoft Copilots GitHub repository, you can directly create branches and pull requests without forking the repository. Simply navigate to the repository on GitHub and review its content and structure. When ready to contribute, create a new branch within the repository for your changes. This ensures that your contributions are organized and separated from the main codebase.
 
-To begin, navigate to the repository on GitHub and take a moment to familiarize yourself with the content and structure. When you're ready to contribute, start by **forking the repository** to your own GitHub account. This creates a personal copy that you can modify without affecting the original project.
+Once you've made your changes or additions in the branch, commit them with clear and descriptive messages explaining the modifications. After completing your changes, submit a pull request directly from your branch to the main repository. In the pull request description, detail your contributions and the value they bring to the project.
 
-Once you have forked the repository, you can make changes or additions to your copy. If you're adding new content or making significant revisions, it's a good practice to create a new branch for your changes. This keeps your contributions organized and makes it easier to track different updates. After making your changes, commit them with a clear and descriptive message that explains what you've done and why.
-
-When you're satisfied with your contributions, it's time to share them with the community. Do this by submitting a **pull request** to the original repository. A pull request lets the project maintainers know that you have changes you'd like to merge into the main project. Be sure to provide a detailed description of your contributions and the value they add. The project maintainers will review your pull request and, if everything is in order, they will merge your changes into the repository, making your contributions available to all users.
+The project maintainers will review your pull request, and if all looks good, they'll merge your changes into the main repository. This process facilitates collaboration and allows your contributions to be integrated seamlessly into the project.
 
 # Reporting issues
 
-Reporting issues is an integral part of maintaining the health and accuracy of the Microsoft Copilots GitHub repository. If you encounter any problems or have suggestions for improvements, you can use the Issues feature on GitHub to communicate them. Simply navigate to the 'Issues' tab in the repository, click on 'New Issue' and provide a detailed description of the issue or enhancement you're proposing. This allows the maintainers to track and address the concerns efficiently, ensuring the repository remains a reliable and up-to-date resource for all users.
+Reporting issues is an integral part of maintaining the health and accuracy of the Microsoft Copilots GitHub repository. If you encounter any problems or have suggestions for improvements, you can use the **Issues** feature on GitHub to communicate them. Simply navigate to the [**'Issues'**](https://github.com/bodanesc/copilot-resources/issues) tab in the repository, click on [**'New Issue'**](https://github.com/bodanesc/copilot-resources/issues/new) and provide a detailed description of the issue or enhancement you're proposing. This allows the maintainers to track and address the concerns efficiently, ensuring the repository remains a reliable and up-to-date resource for all users.
 
 {% include note_important.html content="Please note that this site may contain URLs that lead to external sites not created or maintained by Microsoft. These links are provided for convenience and informational purposes only. Microsoft does not endorse, guarantee, or assume responsibility for the content, accuracy, or opinions expressed on these external sites. Users are encouraged to exercise caution and discretion when following external links." %}
 
