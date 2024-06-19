@@ -88,14 +88,8 @@ body.light-mode {
 
 .dark-mode a:hover {
     color: rgb(0, 102, 39);
+    font-weight: bold;
 }
-
-
-  .body.dark-mode .post-content:hover {
-    /* Text color on hover in dark mode */
-    color: rgb(255, 255, 255); /* Change to your desired hover color */
-  }
-  
 
 .dark-mode {
   background-color: #1a1a1a; 
