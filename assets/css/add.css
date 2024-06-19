@@ -1,0 +1,93 @@
+  /* Generic styles */
+  /* ############## */
+
+.invertable-svg {
+  transition: filter 1s;
+}
+
+.dark-mode .invertable-svg {
+  filter: invert(1);
+}
+
+.mode-toggle {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    outline: inherit;
+    padding-top: 9px;
+    font-size: 30px;
+
+  }
+
+body {
+    transition: background-color 0.5s ease-out;
+  }
+  
+.mode-transition {
+    transition: background-color 0.5s ease-out;
+  }
+  
+  /* Light mode styles */
+  /* ################# */
+
+.light-mode {
+    background-color: #ffffff; 
+  }
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+.site-header .trigger a {
+    background-color: #ffffff;
+    color: #000000; 
+  }
+
+.site-nav .menu-icon svg {
+    fill: #000000; 
+  }
+
+body .site-header .site-title{
+    font-weight: 400
+  }
+  
+body .site-nav {
+    font-weight: 500
+  }
+  
+  /* Dark mode styles */
+  /* ################ */
+
+.dark-mode {
+  background-color: #1a1a1a; 
+}
+
+body.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+body.dark-mode .site-header  .trigger a {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+body.dark-mode .site-nav .menu-icon svg {
+    fill: #ffffff; 
+  }
+
+body.dark-mode .site-header .site-title {
+  color: #ffffff !important; 
+  size: 26px
+}
+
+body.dark-mode .site-header .site-title:visited {
+  color: #ffffff !important; 
+  size: 26px
+}
