@@ -20,12 +20,12 @@
     padding: 0;
     outline: inherit;
     font-size: 30px;
-}
+  }
 
 body {
     display: none;
   }
-
+  
 body.loaded {
     display: block;
   }
@@ -38,6 +38,22 @@ body {
     transition: background-color 0.5s ease-out;
   }
   
+.site-header .trigger a {
+    color: #000000; 
+  }
+
+.site-nav .menu-icon svg {
+    fill: #000000; 
+  }
+
+body .site-header .site-title{
+    font-weight: 400;
+  }
+  
+body .site-nav {
+    font-weight: 500
+  }
+
   /* Light mode styles */
   /* ################# */
 
@@ -48,23 +64,6 @@ body {
 body.light-mode {
     background-color: #ffffff;
     color: #000000;
-  }
-
-.site-header .trigger a {
-    background-color: #ffffff00;
-    color: #000000; 
-  }
-
-.site-nav .menu-icon svg {
-    fill: #000000; 
-  }
-
-body .site-header .site-title{
-    font-weight: 400
-  }
-  
-body .site-nav {
-    font-weight: 500
   }
   
   /* Dark mode styles */
