@@ -45,7 +45,7 @@ body.light-mode {
   }
 
 .site-header .trigger a {
-    background-color: #ffffff;
+    background-color: #ffffff00;
     color: #000000; 
   }
 
@@ -74,7 +74,7 @@ body.dark-mode {
   }
 
 body.dark-mode .site-header  .trigger a {
-    background-color: #000000;
+    background-color: #00000000;
     color: #ffffff;
   }
 
