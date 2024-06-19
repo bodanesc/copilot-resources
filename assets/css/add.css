@@ -91,3 +91,100 @@ body.dark-mode .site-header .site-title:visited {
   color: #ffffff !important; 
   size: 26px
 }
+
+  /* ⚠️ Note caution ⚠️ */
+  /* ################### */
+
+.note.caution {
+  background-color: #c7c754ea;
+  border-left: 6px solid #ffeb3b;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.caution {
+  background-color: #313107;
+  border-left: 6px solid #ffeb3b;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.caution:before {
+  content: "⚠️";
+  font-size: larger;
+}
+
+  /* 💡 Note tip 💡 */
+  /* ############### */
+
+.note.tip {
+  background-color: #d4edda;
+  border-left: 6px solid #28a745;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.tip {
+  background-color: #04240b;
+  border-left: 6px solid #0c5e21;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.tip:before {
+  content: "💡";
+  font-size: larger;
+}
+
+  /* ℹ️ Note info ℹ️ */
+  /* ############### */
+
+.note.info {
+    background-color: #cce5ff;
+    border-left: 6px solid #007bff;
+    padding: 10px;
+    margin: 20px 0;
+  }
+
+  .dark-mode .note.info {
+    background-color: #022f5f;
+    border-left: 6px solid #007bff;
+    padding: 10px;
+    margin: 20px 0;
+  }
+
+.note.info:before {
+    content: "ℹ️";
+    font-size: larger;
+}
+
+/* ❗ Note important ❗ */
+/* ##################### */
+
+.note.important {
+  background-color: #e8d7f7;
+  border-left: 6px solid #9b5de5;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.important {
+  background-color: #4a028a;
+  border-left: 6px solid #9b5de5;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.important:before {
+  content: "❗";
+  font-size: larger;
+}
+
+/* Code paragraphs CSS */
+/* ################### */
+
+.language-plaintext {
+  color: #333; 
+  background-color: #f0f0f0; 
+  border-radius: 5px; 
+}
