@@ -21,7 +21,14 @@
     outline: inherit;
     padding-top: 9px;
     font-size: 30px;
+}
 
+body {
+    display: none;
+  }
+
+body.loaded {
+    display: block;
   }
 
 body {
