@@ -1,6 +1,19 @@
   /* Generic styles */
   /* ############## */
 
+.site-nav .page-link:not(:last-child){
+  margin-right: 30px !important;
+}  
+
+.site-nav .page-link:last-of-type{
+  margin-right: 0px !important;
+}  
+
+
+.site-nav .page-link:last-child {
+  margin-right: 0px !important; /* Example style to remove margin */
+}
+
 .invertable-svg {
   transition: filter 1s;
 }
