@@ -71,6 +71,10 @@ body .site-nav {
 body.dark-mode {
     background-color: #000000;
     color: #ffffff;
+}
+
+body.dark-mode .site-header {
+  background-color: #002750;
   }
 
 body.dark-mode .site-header  .trigger a {
