@@ -8,6 +8,9 @@ document.addEventListener('DOMContentLoaded', function () {
   document.body.classList.add(currentMode);
   updateModeToggleText(currentMode);
 
+  // Show the body after applying the mode
+  document.body.classList.add('loaded');
+
   // Toggle mode function
   modeToggle.addEventListener('click', function () {
     const newMode = document.body.classList.contains('light-mode') ? 'dark-mode' : 'light-mode';
