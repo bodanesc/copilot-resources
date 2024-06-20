@@ -156,7 +156,7 @@ body.dark-mode .site-header .site-title:visited {
 }
 
 .dark-mode .note.tip {
-  background-color: #04240b;
+  background-color: #04240b86;
   border-left: 6px solid #0c5e21;
   padding: 10px;
   margin: 20px 0;
