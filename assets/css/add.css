@@ -219,3 +219,22 @@ body.dark-mode .site-header .site-title:visited {
   background-color: #f0f0f0; 
   border-radius: 5px; 
 }
+
+.new-label {
+  position: absolute;
+  top: 12px; /* Adjust this value to position the label vertically */
+  right: 0px; /* Adjust this value to position the label horizontally */
+  background-color: #005707e7; /* Label background color */
+  color: #ffffff; /* Label text color */
+  border-radius: 20px; /* Makes the label oval */
+  padding: 2px 8px; /* Adjust padding for size and shape */
+  font-size: 10px; /* Adjust font size to be smaller */
+  font-weight: bold; /* Make the text bold */
+  line-height: 1; /* Ensure the label height fits the text */
+  z-index: 10; /* Ensure the label is on top */
+  transform: rotate(45deg); /* Tilt the label 45 degrees */
+}
+
+.site-nav label {
+  position: relative; /* Ensure the label can be positioned absolutely within */
+}
