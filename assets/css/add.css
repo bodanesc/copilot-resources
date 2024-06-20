@@ -178,7 +178,7 @@ body.dark-mode .site-header .site-title:visited {
   }
 
   .dark-mode .note.info {
-    background-color: #022f5f;
+    background-color: #022f5f83;
     border-left: 6px solid #007bff;
     padding: 10px;
     margin: 20px 0;
