@@ -1,0 +1,221 @@
+  /* Generic styles */
+  /* ############## */
+
+.site-nav .page-link:not(:last-child){
+  margin-right: 30px !important;
+}  
+
+.site-nav .page-link:last-of-type{
+  margin-right: 0px !important;
+}  
+
+
+.site-nav .page-link:last-child {
+  margin-right: 0px !important; /* Example style to remove margin */
+}
+
+.invertable-svg {
+  transition: filter 1s;
+}
+
+.dark-mode .invertable-svg {
+  filter: invert(1);
+}
+
+.mode-toggle {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    outline: inherit;
+    font-size: 30px;
+  }
+
+body {
+    display: none;
+  }
+  
+body.loaded {
+    display: block;
+  }
+
+body {
+    transition: background-color 0.5s ease-out;
+  }
+  
+.mode-transition {
+    transition: background-color 0.5s ease-out;
+  }
+  
+.site-header .trigger a {
+    color: #000000; 
+  }
+
+.site-nav .menu-icon svg {
+    fill: #000000; 
+  }
+
+body .site-header .site-title{
+    font-weight: 400;
+  }
+  
+body .site-nav {
+    font-weight: 500
+  }
+
+  /* Light mode styles */
+  /* ################# */
+
+.light-mode {
+    background-color: #ffffff; 
+  }
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+.light-mode a:hover {
+    font-weight: bold;
+}
+  
+  /* Dark mode styles */
+  /* ################ */
+
+.dark-mode a:hover {
+    color: rgb(0, 102, 39);
+    font-weight: bold;
+}
+
+.dark-mode {
+  background-color: #1a1a1a; 
+}
+
+body.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+body.dark-mode .site-header {
+  background-color: #002750;
+  }
+
+body.dark-mode .site-header  .trigger a {
+    background-color: #00000000;
+    color: #ffffff;
+  }
+
+body.dark-mode .site-nav .menu-icon svg {
+    fill: #ffffff; 
+  }
+
+body.dark-mode .site-header .site-title {
+  color: #ffffff !important; 
+  size: 26px
+}
+
+body.dark-mode .site-header .site-title:visited {
+  color: #ffffff !important; 
+  size: 26px
+}
+
+  /* ⚠️ Note caution ⚠️ */
+  /* ################### */
+
+.note.caution {
+  background-color: #c7c754ea;
+  border-left: 6px solid #ffeb3b;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.caution {
+  background-color: #313107;
+  border-left: 6px solid #ffeb3b;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.caution:before {
+  content: "⚠️";
+  font-size: larger;
+}
+
+  /* 💡 Note tip 💡 */
+  /* ############### */
+
+.note.tip {
+  background-color: #d4edda;
+  border-left: 6px solid #28a745;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.tip {
+  background-color: #04240b;
+  border-left: 6px solid #0c5e21;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.tip:before {
+  content: "💡";
+  font-size: larger;
+}
+
+  /* ℹ️ Note info ℹ️ */
+  /* ############### */
+
+.note.info {
+    background-color: #cce5ff;
+    border-left: 6px solid #007bff;
+    padding: 10px;
+    margin: 20px 0;
+  }
+
+  .dark-mode .note.info {
+    background-color: #022f5f;
+    border-left: 6px solid #007bff;
+    padding: 10px;
+    margin: 20px 0;
+  }
+
+.note.info:before {
+    content: "ℹ️";
+    font-size: larger;
+}
+
+/* ❗ Note important ❗ */
+/* ##################### */
+
+.note.important {
+  background-color: #e8d7f7;
+  border-left: 6px solid #9b5de5;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.dark-mode .note.important {
+  background-color: #4a028a;
+  border-left: 6px solid #9b5de5;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.note.important:before {
+  content: "❗";
+  font-size: larger;
+}
+
+/* Code paragraphs CSS */
+/* ################### */
+
+.language-plaintext {
+  color: #333; 
+  background-color: #f0f0f0; 
+  border-radius: 5px; 
+}

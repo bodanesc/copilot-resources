@@ -12,11 +12,15 @@
       </label>
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.nav_exclude != true %}
+        {% if page.nav_exclude != true %}
+          {% unless page.url contains "assets" or page.url contains "feed.xml" %}
             {% assign page_url = page.url | prepend: site.baseurl %}
             <a class="page-link" href="{{ page_url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}      
+        <button id="mode-toggle" class="mode-toggle"></button>
+
       </div>
     </nav>
   </div>
