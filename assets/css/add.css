@@ -200,7 +200,7 @@ body.dark-mode .site-header .site-title:visited {
 }
 
 .dark-mode .note.important {
-  background-color: #4a028a;
+  background-color: #4a028a50;
   border-left: 6px solid #9b5de5;
   padding: 10px;
   margin: 20px 0;
