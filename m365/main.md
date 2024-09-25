@@ -14,4 +14,4 @@ With Copilot for Microsoft 365, users never have to start from scratch; it helps
 2. [Copilot for Microsoft 365 Partner Readiness Resources](partner_readiness)
 3. [Develop a Services practice](develop_services)
 4. [Demo Resources](demo/run_demo)
-5. [Upcoming events](events)
+
