@@ -257,3 +257,12 @@ body.dark-mode .site-header .site-title:visited {
     padding-left: 15px;
   }
 }
+
+/* To be used in centering all images */
+/* ################################## */
+
+.image-centrator {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
