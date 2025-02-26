@@ -237,3 +237,23 @@ body.dark-mode .site-header .site-title:visited {
 .site-nav label {
   position: relative; /* Ensure the label can be positioned absolutely within */
 }
+
+/* Overriding the default theme width */
+/* ################################## */
+
+.wrapper {
+  max-width: -webkit-calc(1400px - (30px * 2));
+  max-width: calc(1400px - 30px * 2);
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+@media screen and (max-width: 1400px) {
+  .wrapper {
+    max-width: -webkit-calc(1400px - (30px));
+    max-width: calc(1400px - (30px));
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
